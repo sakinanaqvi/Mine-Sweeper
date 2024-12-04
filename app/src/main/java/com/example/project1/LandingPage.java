@@ -30,9 +30,11 @@ public class LandingPage extends AppCompatActivity{
         playAgain = findViewById(R.id.playAgain);
         timeElapsed = findViewById(R.id.timeElapse);
 
+        //check for actual time
         int timeVal = getIntent().getIntExtra("TIMER_VALUE",0);
         timeElapsed.setText("Used time " + timeVal + " seconds.");
 
+        //check for updated message on wins or losses and in the case, there is a null
         String outcomeVal = getIntent().getStringExtra("MESSAGE_KEY");
         if (outcomeVal == null) {
             outcomeVal = "No message available";
