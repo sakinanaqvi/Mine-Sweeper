@@ -20,16 +20,16 @@ public class MainActivity extends AppCompatActivity {
     private Handler handler = new Handler();
     private Button flagButton;
     private List<Button> flagged;
+    private List<Integer> mines;
+    private int counter = 0;
+    private boolean isFlagged = false;
+    private int pressedNonMines = 0;
+    private int totalNonMines = 116;
     private Runnable timerRunnable;
     private int remaining = 4;
     private GridLayout gridLayout;
     private int[][] positions;
     private TextView textTimer;
-    private List<Integer> mines;
-    private int counter = 0;
-    private boolean isFlaggingMode = false;
-    private int pressedNonMines = 0;
-    private int totalNonMines = 116;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         flagButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                isFlaggingMode = !isFlaggingMode;
+                isFlagged = !isFlagged;
                 if(flagButton.getText() == "Build") flagButton.setText("Flag");
                 else {
                     flagButton.setText("Build");
@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startTimer() {
+        //have it run
         timerRunnable = new Runnable() {
             @Override
             public void run() {
@@ -71,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
         handler.post(timerRunnable);
     }
     private void randomSpots() {
+        //assign random spots
         List<Integer> allVals = new ArrayList<>();
         for(int i = 0; i < 120; i++) allVals.add(i);
 
@@ -96,15 +98,18 @@ public class MainActivity extends AppCompatActivity {
                 button.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        if (isFlaggingMode) {
+                        if (isFlagged == true) {
+                            //change the color based on if flag is on or off
                             flagButton(button);
                             button.setEnabled(false);
+
+                            //ensure this button is also counted as pressed
                             pressedNonMines++;
                             int near = countNear(rows, cols);
                             button.setText(String.valueOf(near));
                             button.setBackgroundColor(Color.YELLOW);
                             if (remaining == 0) {
-                                isFlaggingMode = false;
+                                isFlagged = false;
                                 flagButton.setVisibility(View.GONE);
                             }
                         } else {
@@ -156,8 +161,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int countNear(int r, int c) {
         int counter = 0;
-
-        // Loop over the neighboring cells, but ensure we stay within bounds
+        //check near the rows and cols for the adjacent
         for (int i = r - 1; i <= r + 1; i++) {
             for (int j = c - 1; j <= c + 1; j++) {
                 // Ensure that we are within the grid bounds
@@ -170,6 +174,7 @@ public class MainActivity extends AppCompatActivity {
         }
         return counter;
     }
+    //used to update flag amount on the site
     private void flagButton(Button button) {
         if (remaining > 0 && !flagged.contains(button)) {
             button.setBackgroundColor(Color.YELLOW);
