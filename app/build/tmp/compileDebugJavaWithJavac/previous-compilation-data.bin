@@ -1,0 +1,853 @@
+ $AM... „com  ˆexample ‰project1	 
+ „ain
+ ˆctivity ‚2‚iü
+ü÷.¯þŒÌ¼J}N
+$ ‚1ƒlå]ÓØÚàÞö^,$PL ‡anding „age(R—hó Èæ
+AÌÏkc€¡e8ãHLµÆe€>Ù$ ‚3L3,RNÆ\B):½7?€8P¥1ÁÝC’ÖÜ`ÿDB.. ˆandroid ƒos	 †undle  VT..  ‡widget	! „ext" „iew  #L$C%O&$'V(.).* …view	"	+ ‚n, …lick- ˆistener
+  .H/ ‡andler  '
+ 0B1 †utton
+  
+ 2A3C4A5.6.7.8 ‰androidx9 Šappcompat: „app	; ƒpp< †ompat
+     
+    =P>L?$@G'A …roup	B †ayoutC †arams    D$ER	F ƒid  GIH.I.J ˆcontent	K †ntent  LPMLN$OLPGQ „ridB	BC  E  @  RCS.T.U ‰graphics	V …olor  WSNX „pec  Y$EZ ‡layout  O   €            €        •[G\I]$^B_M`.a.b.c.d.e ‡googlef ‰materialg ‡button	h ˆaterial1	i „conj ‡ravity‘à‡DÜ2RpÈ¯¼LõkRlAm.n.o ‡kotlinp ‹annotation	q Šnnotationr ‰etentionEªb5
+ä®‚J=ÃÃèFisTtCu$vSwCx$yCzN{.|.}.8~ …core:	 Œotification<	€ „all …tyle	€‚ „ype±ì*¤¢|?^
+Zµ¿ºƒL„M…K†.‡.ˆ.‰.oŠ „jvm‹ ‰internalŒ ˆmarkers		 ‡utableŽ „ist„HÜ!ÞÞ‘*÷jàÔS$‘B’A“F”.•.b– •floatingactionbutton	— ˆloating˜ †ction1	™ „izeî—š3Ž“€&k	'–PýšS›BœR$žCŸM C¡.¢.}£ „net	¤ Œonnectivity¥ ‡anager<	¦ ˆestrict§ Šackground¨ †tatus™ÁDHœ«Êèß«ó`Öå“©TªC«H¬$­C®H¯$°P±L².³.´.}µ …text¶ …util	· †ocale¸ ‹references	¹ „ourº …ycle	¹º» …ypesùó(}gCüÄW‰avHŒ¼C½O¾A{
+¿ ‡ptions<1†mHùiµ*ËKÍá+è~”ÀMÁVÂLÃ.Ä.bÅ ‘bottomnavigation	Æ …abelÇ ŠisibilityÈ „ode¹nŠ™yóxÍ\fæÍ^ÉIÊOËRÌ.o	Í ˆequiresÎ ƒpt+çIv¸¾ÜÅ*1UêŽWäÍÏAÐSÑ$ÒAx˜	Ó ˆemantic˜·ûÂ³”ÿ€ßr»¤%86«ÔTÕUÖ.×.8p	Ø ‚iÙ †hreadm‹¨j	Ÿ%ÛŠ»/OCÁ„ÚLÛCÜLÝOÞ$ßLà.á.â.8ã ‡loaderJ	ä †oader	+å „oadæ ˆomplete-$¾ ýO®¹±C¨‚çAèSé$êCëVì.í.}*	"<	î †crollï „xis)nÂµTÓÄª<ÃøkLa ðEñSò$óPôLõ$öL÷BøAù.ú.bû ‡appbar	;ü ƒarB	BC	îý †ffectŠ…FV˜Ð¯3CÚÐW¿,ëþCÿ$€BM‚.ƒ.„.7*… …menu	† „enu‡ ‡uilder	ˆ ˆallbackÙ~E?ÆTæï.‰¹^W×‰DŠI‹$ŒIPŽL..b‘ ’progressindicator	’ †inear“ ˆrogress” ‰ndicator	”• ‰irection¸N{Zæ{­|=–õN£"
+‹–T—D˜.™.7 	š …ecor› ‡oolbarùeôÉ{tJlqZKiûÒœEFž$ŸP IÖ¡ ‹nspectable¢ ˆroperty	£ „lag¤ …ntry(XTørî÷ }™Â>¥K¦$§E¨C©.ª.«.8¬ Šlifecycle­ Šviewmodel	® ˆreation¯ †xtras	° ƒey’G’2: ­ö‰ f em±L²N³O´$µB¶A5˜ü	+· Šavigation-ÓIóØF¿#ÿ¡ÄŠTÅïª¸D¹RºFé» …ocus¼ ˆelative•pLø©@=¶Îi¹CŒú6#½R¾AÖ¿ ˆnimatorÀ ƒesu‘¬Ÿ‹Õô­Éä^*DÊÁUÌÂ „nitS­”%‰è­š=‘ä:¤I5*ÃHÄPÅ …opupÆ †elperÂ5ž{®óþ»2¿—I”¢ ÇIÈCÉMÊPËIÌP{Í ‡icture+ÍÈÎ ‡hangedÏ „nfo1ƒ_ 3Æ]‰·ÔNËÝOcÐSÑAÒ$ÓCÔPÕTÖ.×.bØ ‹timepicker	Ù „imeÚ †ickerÛ ˆontrols	Ü †ctiveÝ ‰election€½°T o”Ÿæ_¦\$Þ.ß.}‹à package-info½8]3üL,öHÚŽ-áSâFã.ä.å.8æ ‰fragment:	ç ˆragmentè …tateØ;»›E‘€c‚¹ô§3B<éRêAÖë „ttrÀˆYâ‘„À¾‡`iO±¶AÅìEíDîSï.ˆ	ð †ourceñ …ebugò ‰xtensionzù«žeÅÉÐà”´yò óQô$õCöR÷Lø.ù.}ú ‰location	û ˆocationü ‡equest<	ý ‡uality&Â8VoHƒ7›¨›—TxþTlÿ †arget``”¢>dÒMÝÐ~¸ÓjÏ€MI‚$ƒA„.….†.8‡ “resourceinspectionp	ˆ ‰ttribute	‰ ƒntŠ ƒap˜akÖùw‘’¡Åƒ‹DŒSÖ †tringŽ ƒef‰1k6bJýÙÔÜHø iÑORâ‘ †esult’ …wneròM†e$hç°ó-ÃÃ*E³“D”L•.«	– „ive— „ataÚKIï´i¶*åNÑ
+ÿ˜M™AšI›Tœ$LžTŸ. .b¡ …tabs	¢ ƒabB	¢”£ ‰nimationÈÌ›‰ðùi$-&–*z‡1L¤Mâ¥k¹c^ •$e˜²	?;V€Eè+5.HÍÞ]¼SÒ¥D3¦ ˆelegatejkÊ›Býåö¥fg6Fú§S¨R©AªU«$¬C­M®P¯.°.}J	± ‡ackage¥<	² †nused;³ Œestrictions¨­N÷#&ƒVþì^çå5´SµJ¶.‰	· ƒvm¸ ‰ynthetic×|åšDh¼I)\‘b7Â ¹PºM»T¼O¯+½ „rim¾ †emory¿ ˆroviderZß28Ö ¦+Ê
+ðkiÀLÁT´¢-Æj­§¼7;iäÖ‚!ö—ÂCÃPÄPÅ$ÆPÇMÈA˜˜†É ‰resenter	ÅÉˆŽsäý%À
+¤
+ùÊFËRÖÍÌ ‡eature§o¥¬‘Õ&om`Í×è÷ÍMÎFÏ$ÐTÑCÒMÓ.Ô.bÕ ‹transition	hÖ ‰ontainer× ‰ransform	Ø ƒitÈ3ÜÊåëPÔŒï1ZØ…ÚÙFÚIÛ$ÜCÝMz¥<	Þ Œnterruptionß †ilter§ª•XPM‰jÃX
+ª-‹ŠàMáFâ$ãTäCåMæ.ç.Ôè ‰platform	hÖ×	ØÈ¤.s~ï‘=ŸI;œÊ¼éEêEžë „num¤°oÉÛ,&¥2$¡S¤?ÁìPíOÅî ˆverflowÅ4”AZ¹F”ø-´0Ë£[|çïPðAì˜¿_ù!"CÐ9ÀzfÆç#ñL-¿<¡—Ú¦•þ:†ÿS„…òCóRôAõ.ö.÷.ø.8ù ‰activityú ‡resultû ‰contract	
+‘ü ˆontractSºçŽ
+÷`MÎ0ø½†:îNýMþSÿ.€.ß*	 ‡upport†0ªš§¢0ðÒÔ•æm«m^‚AƒC{„ ‰omponent
+›ÿ"¨ÊÜ“?ïz*ó"‹_…W†RÌ‡ ‡eplaceˆ „ithÙ‰ß›U8þØ£~1 ®‰OŠL•‹ ‰ifecycleŒ ˆbserverÂ°`KKk€­G|rx¡*ƒFñŽ …lags—››ßMpCƒE.ºIùEËTRÖ¦‘ ‚o¼€ÆüfÆÖûc’!ŠFõ‰;Ÿs=a56TÛL‘Û¼:¨T’C“$”D•A–.—.o˜ Œcollections	™ …rrayš …eque	› ‰ompanionæüå"ë%Ë‹ïC4µg…,£œASžCŸA„;<  ˆhadowed¡ ŠttributesÁî¸OÕ‰Êm|¨{ÑÐ…4¢F£C¤.¥.b¦ †shape	§ †orner¨ †amily7š-íiÊ	r
+NWÚT”©TªC«C¬$­C®E¯A°.±.í² Žaccessibility	³ ccessibility´ …vent<	µ ‡ontent¶ †hange‚.³03ú(#“_2™0;åû·T¸F¹Hº$»C¼C½F¾Hì¿ †apticÀ ˆeedbackÁ ‰onstants<	¿À‚ ©J†	ô¸€qÿ%Æ"‡ÂPÃIÄNÅO{+Æ ƒewK¿;¡IKÅ²º8ž@rÝ‚$ÇMÈIÉEÊ$ËLÌIÍTÎ.Ï.bÐ Štextfield	!Ñ …nputB	Ò ƒndiÈžr;kA@{œÜäeÊK…ÓCÔN¤Õ ƒonÖ †onfigPø¡3ùOð~j„Ð"Y×FØFÙSÚ$ÛCÜS{Ý ‡ervice<	Þ „topß ŠoregroundŽùyGFþë-Â!k2¾ã°àLáSµâ Œerializableã †ambda3¤b[b!8}v[/ú;äOµå ‰verloads–ÚÿTY /,à¹'Û\–ÊæSçMèV•"é …odelê …toren¾}9×ÍÉ²UrôÑXstëPìLí$îVÇ"	BCrcóò}6eL¿/eæ|.(ïNð.ñ.ò.ó „orgô Šjetbrainsõ Œannotations	ö ˆullableaákCÏ,â%>¬¬%˜oÆ÷HÆ7wróÈö›‹8R1+­y”ÝøS¶ù ˆtrictfpÈ¦ÉÅ"40©òø>ª²úCû$üDýEþKì°´ÿ Šispatcher	„“í{“Z­E¢Îlü
+`Y€Rµ †ecord;#@‘Û0Ú9È\1µmõ‚CƒHâ„ „ostˆ¦Bõ4¢ÿšËö¢›Óa…R†S‡Bãˆ „ack‰ …tackh_ÿ­¢µ^R†M®>U~¯ŠI‹CŒMWŽM{ …ulti †indowÈÎÏ,[¢ê+­}áAb ªKƒ‘L’V“M³†Ç-õïZcŒ(¹ï[eÖ~q”M•L–.—.â:	ä¥B¢=Ñ8KÔq¦3±Ê2ÇO˜M™FÏš „adeÈYè›u¯Ü±¨'{®Ý&›Aâ
+óL6QNùèUã.ÁNæ½ŠíÛO’ŒBîj+óöÍ€nþÄ MŒÉÁ‚J*TÃ`¾ïFœOŠ’•¡dºçz´z
+%.ŠCžLŸL .¡.}	·Ž<£äQ¨wð ¡ByMpÿ±9'¢M£A¤S¥.¦.8§ ‹collection	¨ †imple™ŠÞm”ÌrvÁã‰Lï—Ò©MªL«S‚¬ ˆhowableŽ†è,æ
+¼2†  {4ý±KÞ­C®U¯NÖÕØ° ‡ontexta¯ãáÿ Û,ÄjF‹›ä±I„² ˆterable›Ëÿ†£»è4ïÚ¬Ïã˜³L´Vµ$ï	Ç-½k &¾öyaVj%cÑ#
+Í¶M·FâšÈqI@Ö\&‡”`–Àœµ–\¸Fµ¹ …ieldÄ6œç+eÝbJDÚo@ý ºT»M¼$½A¾M¿F{À …rameÁ ‡etricsÂ Šggregator	Ã †etric‚~¦i½#]ù¾óÄY—5ÄSÅSÆ$ÇBÈSÉBÊ.Ë.bÌ Œbottomsheet	Í †ottomÎ …heetÏ ˆehavior	Ð †tableèßkàõ0Ú¸paö'¸Ñh ÑCÒEÓS{Ô †haredÕ ‡lementˆ¶ 7¬å]Ž†8&Ü ,Ô‘ÖC×MµØ ‰ultifileÙ …lassžÚåþï ¡ZGÔ›­È…FÚSÛ$ÜOÝ$ÞCßEàSãá ‡pecialâ ‡ffectsã Šontroller	ä ‰peration	èÓ•
+ý0¢XkJí
+àRåCæ$çEè$Š	´	›êË›cˆ§ü%øGW/µ]éEêWÌë ƒasì ŒxperimentalYXq ** ƒ9zËÅ%˜íVî.ï.äð ‹strictmode	ñ ‰iolationmBsúD ’÷
+Ð<Àke’òOó$ôPõVö.÷.ø.8ù ‹viewpager2 	"ú †ager2	û ‹rientationRü=o¬Ù€w‡9¥OøÖüEýSþBÿ$¤	ˆ‰¤Éöã3ÊÔ!Ôé6ÎÂ€IIÿ‚ „temƒ ‡nvokerìªwz¥“Kp1t 6M22Ï¥¾Ì†á¢°Ã„×®¸ë¥„I…CÖV‰¤oó¹:AÔè‘4Eœ€˜,†U‡Tˆ$‰UŠT¯‹ ‹emperatureÂ	‹Œ …nitsm"Lšà€8q·#<—ÍCŽRSS‘.’.8“ ‹savedstate	” …avedè• ˆegistryãço1 Ð Xlµ,¼“Œu:0–K—SÌ˜ …ince™ †otlin·ÒÎq*‡)›%¤ÇoÇ"šR›Sœ$ò	 ‹ynchronous‘â—£d“ó8þd£SbžPŸL´BC©$Ö@ük'´PsÈ&iÜ£Â L¡A¢Oâ+£ †ttach-+ïFý,ˆÔõç}
+žu— ¤R¥D¦F§.ø	¨ …ully© …rawnª ˆeporter°kã¢$Â§Í¢ÜÓüå X«V¬I­$®V"	‚"oæ /¨w\…°[C=‚z
+¯E°D±$²C³B´$µB¶B·T¸B¹.º.b» ‰snackbar	¼ „ase½ ‰ransientÍü	¼ˆ	¾ ‡ismiss´Q/:@KØ$»'ˆÖN†§
+6¦±µª¶ù);c"^Dm$ úÀ~d%
+ø]¢ž´¿FÀ.Á.‰Â Šfunctions	Ã ‰unction1ÅíØ «®zÐS™èCs…ÄMÅAÆFÇ$ÈBÉAÊBË.Ì.bÍ bottomappbar	Í;ü	¢£ÈnûïMVçŽÆ²¦†¨zÁ ÎFÀÏ ‰unction2‹’“'ø fà×YEž¨/cbÉ8Â.÷ã «ÐFÀÑ ‰unction0Å8.	¥Ì…?–É&h”FÒOÓMÔ$ÕTÖ.×.8Õ	Ø Šransition	Ù …atchÚ …rder)Ôô¥ï×ˆ©Ü.{5<ÏøÛEÜSÝ$ÞSß.à.bá Šsidesheet	Î	Îâ „dgeÖb§|²Ö¦9õÿêmÔ§NãLäCåIæMçOè$éT˜›	+†‚,-;Ó>ÍPŒ ‹kÐ=–¼êIëAì$â	£Ï¼Òggx½Á[ùÙTHÌ ÝíMîOï$ðCñLòL˜’B<	ûÈ…•$eÁoÒ~VnyóSèè
+.[§@ÛŸvu5wôéO	ôRõIÖö ‚dÀ‚ODÏ@ ·ýD1=U _÷RŒÀ‘èaHôÅ¤È×†d‰fBÉøNÖö§µm^Æf‚ÚÌP7§ùSúCû$üBýCþMÿ.€ .b  ‰checkbox	h‚  …heckƒ  ƒox	„  ‡heckedèÍþ1Õ'Nï(ËÃü¡y… F† G‡ $ˆ SÖ‰  …lide	j£âKz ,#€~QÃüÝ-@Ì7Š F‹ $Œ B $Ž R S I‘ .÷	K’  †enderü	‡	£°Ð¹äýFâ–W³#¢+ƒ®(º ]·¦ôáwÂÇL`y“ R” MÖ†À—’h£/àiñð¬)”ƒB• S– SóîèdïðJ¹n¨Ûµ%æqg®— C˜ A™ Pë¢¿<w¯›ñº@¬þu
+Qš G› Iœ C $ž VŸ C  M¡ .¢ .b£  …card	h¤  „ard"	„ ij¬riÛ1™H¥²˜ÐÎ½gÚ¥ C§¦  ‹ancellableF»›ãÝ.úêôó8îy‹Ÿ§ D¨ I© $ª I« P¬ C­  ˆircular“”	”•bR6z9¨N§›E(#sß8þñ ƒ¢ž“{p€® Nµ¯  „ameÿÐs;IëÐa>€e·Æ:° P± LïBC4?ß%²)?.½^üI
+ü² D³ Rº´  „eal•vE‘MË
+vi}m]:‰Rµ FÕ¶  †ormat0š˜ |7ìæfÖ»9LàU· C¸ E¹ B§ˆ´<4c
+7ÂŒïaZÜ‡^ÊYdº T» I¼ Bx½  …adgei‚+ªÊÏö¸/TN¾ZeU¾ E¿ SÀ $¥	Á  †erialÂ  ˆxecutor,+³¥âáúÊÍJ;iQ@Ã VÄ CÖµ"ƒƒGÅ ý›°žá·OQÅ PÆ CÇ C¼È  onfigurationÎ¿möÅ×ËH^VßI´×XcÕÉ HÊ Mì†„Ð!;>¹ä~‡>B‘õ›ìË FÌ PÍ .Î .8Ï  ”versionedparcelable	Ð  †arcel¹ºýûq,Rô;TW(ÞYÌ)tÑ VÒ CâÖ"»ý‡—@&Ý'2L¹:VÀ›Ó SÔ $	Õ  …copeBÃv¥_íU %â¸{OûßÖ T× SxØ  †tream‚#¶@œ	K:‹9úùfí]Ù MÚ N´·È…J7 ¥Oƒ
+wŸ—a—Û L˜ -:%!¨|Žþ/@
+™¯`îÜ VÝ IÞ Cß A˜;<à  …mage"œ ñ—7ávv4mDÅRË–á Fâ Gã $ä På Dæ SÓ‰ ç  ˆistance¿	j£Ž/ãÊ“xÑtåPØ1ËÏƒlÙ,^h*…wßÏ‡¬è Dé $ê Të Dµì  †rawerí  †oggle	¦WÉç9rnzò4­`=¹‰î Pï Mð B‚¼†É6«'š¼o2uÔÏ`‘ûóÃ6ñ Cò DÖó  ‡isplay°R$Ñ±—eêÕ^ÉXo»´ô Sõ Bö AÅ˜1÷  ‡ubmenuÓyƒ‡nXä]·ÑCÖMø Vù Cú Rû Pü Rý $þ C¾<	üÿ  ‹ermissionsüÈ€ ‰alidator@åÎþŽýI´´ê½,¬V‚CƒM„Aí˜†… …hild"üM*Vÿ‹CóakÓõxUy†D‡$ˆW‰OŠD‹F¯Œ …irst ƒayŽ ‚f „eek	 „aysósžTxbÄh®f? ­Ð‘Rm’ Šepeatable2,ÆÙ“—àm¢TM“L”C•S–B—Oÿ+ˆ‰Î-¯$bÚÕÐŠÖí\Ðn…·{˜C™.š.}¶	› ˆonsumer(ß1±e>s>Ç¸òšm<œA ‡dapteróa×Ã~ªŠ½[ýe³}ÄžTŸI $¡T¢$£C¤I¥Wì¦ †nsets<	‚	¦‚‚^&‚7m!yÇüê%p§Rmræ¬iÑçüØñÄ>û
+“¨P™© „air5Þ&cÕïÓçÅ‹CMªI«M¬V©"é­ ‹nitializerèÀÄÔ•‘tÚ|DÂLÊ©®P¯CÒ° …lock± †eriod~É
+Èà#~¼	ÅX°²A³C§„
+Œ6v‡4\€
+EcŽ«´CµR¶A‘ 
+‘· †aller0<#1pƒÓ08LÆ¬¸CÕ°?rÍÑTE¹IÊ`Š"íž¹DºTâØ•'†öèÑÏ©ìÛã€ê¿¹}»T¼C½$¾C¿SÀGøÁ „nss¨<	Â onstellation‚~5¢sø#6ê9ÝŒeÕÃTÄMÖ
+Ù¼COêõù+Æ»3™9Ê!žáÅF¸ŽI¸ÆÐ}@Ù;dîåÇó˜ÆAÇ$ÈAÉSåÔï	ïÝòîú÷pgË1²6–ÊFËSÆÌ „aveŽYÌóÇÃÒ‹h‚ä®4á­&ÍDÎIÖ‰ŽŒ»Ñyßt¢u- ÈižßŽ*ÄÏð­þeå‹œ^”žÿ6ðfM{“:êœf)Ÿ	 CÏSµÐ †taticÉ7¡ë!Í/šÃm©s²ÑSÒSì”è…»m„‚FYHñ[G  ÓVÔSÕIÖT×.Ø.} 	Ù ˆintableà ð"ï\Å.ØÔnq$OQp“ÚLÛRÜEÝSÞOß$Ñ	+Ôà ˆlementsá …eady-sä+@#Ç&mÜP9¿#~Y,Æõ»‰uN GÐCszPïâIèã Šndicators­3Æ<åçÓGñ
+Å§däRåLÖBÀBÜ È	Ñãü•è©åQÞ•æMá¥d[3Ç[ ÎêÊjáåNçVèBéTìÙ§"«¹8È‡ÃgnvÌð êS¶ë ŒynchronizedA	DMôð©Vj4+$S”_ìAí$îAïSÒÔï	ïÕÎ¯J$ý»_}§f
+Ÿã®ùðCñ$òRŠ•	›Ê¶D• ‘YŸ,ªàçÔæöóOôTðõ „estö „nly˜ƒÅcÏBï;·2ÜÅ€ºœ÷O•Œá¥âÏ6EháeÞP¾øCùWúDµû ‡efaultü ‡ithoutý ompatibility¸å|Ù…ƒo"NÉ$°&Ÿ¼þLÿCÜ€	 ˆanceled-ÇÛ^J9¢h<¶i<¿	C‚	Lƒ	Fÿç‹„	 ‰allbacksGõ‹‡ÿ‡T
+j'îZ’ùFï…	S†	$‡	Hˆ	R‰	CŠ	.‹	.bŒ	 circularreveal	­ 	 †evealÆ	Ž	 ˆtrategyéÐ2à.-û’–õœP‡	C	$· 	›•ëy8´îwÜÍdjÞã‘	N¯’	 „ull¨’óÔOèb&Lê Ò ©Ãh§Å“œ?ïfâa¶h“	C”	$•	P–	$—	M˜	S™	Fîçš	 †trictÈ	›	 †olicy	›Xgá[S ÇžçÌ ”¨ãœ	M	M…ž	 †appedŸ	 †arker÷ea¾ý"§º:Bµeµ 	DÌ¡	 Šeprecated¢3—¥á‘»f—›G”Ö¢	I£	OÌÎ+^âyN<ÿ¥pÂm×Qs¤	C¥	P¦	B§	O§+ˆ¨	 ‡ressedˆdbá
+èÓ­ PaªTV_+©	T¶½(½”£îÐ`VR’
+–(Üª	B«	A¬	H­	$®	I¯	P°	B¼“”	±	 „ide£ÏOT½=¾ló›:h—x S²	R³	A´	$Ž	µ	 „uto¶	 ‰ecreatedû`ùXE²Ã_ÞPYW]€·	P¸	$¹	Cº	I»	P¼	.½	.°¾	 ƒpm	¿	 ŠermissionÏ<	À	 ŠrotectionÁ}šUòÖkéTæ£¥ËŠÁ	MÂ	BÃ	BÊƒ §ÈZ&\€„\;äˆ:›Ò¬˜Á÷!ÌâöÇ+´¸¶·•<d1Ä	FÅ	GÆ	$Ç	PÈ	DÉ	Sæ‰ ç ¿	j£ê9çE°'
+aÃÜO¿×#Ê	AË	SÌ	EÌìÍ	 †tdlibÎ	 ƒpiaÃä?ÕX ä•ôî =‘±Ï	Cµˆ9k&f¼[T•	ÆEˆ‚ oÄÐ	MœÈÞ«
+ºúÆ=‡o­5&TÎÅfÑ	Pè ¿¬‡X–Í£¯ê¯´™ƒ¼ÉÒ	RÓ	SÖÀGŸÖ(¥—óHûTðÒ¸/ÜÔ	BÕ	AÖ	S­	×	 „how£ÏÚwFëÔÍ‹P;øž³žSØ	SÙ	BÚ	CÛ	EÜ	$Ý	IÞ	R{ß	 †emoteÑ	à	 „ditá	 ‡hoicesâ	 †eforeã	 ‡endingŸ5RúAWK}¾0ÍÃ:~ä	OŽ’ŽÊÏq=\•íXœW£ÁÓYr(ÿ2>Â6;n:¶“å	G›jÇ/­öá{ìþ™Æ•´-ÁŽræ	Tç	Sè	Néé	 †estedî‚°äÑ[ºâ¤ª^:‡A‚ê	Oë	Rµ•’¤ëÞY/˜å3 Ö•:ì	FÌí	 ˆunction x
+yf—*&S
+óð†î	Tï	Tð	Sñ	Aò	$ó	Cô	Võ	T×!"<	µ	™!‚bäºQBWÜDD:§åE@
+Ýö	C÷	Rï’Ö0—åŽ±xýÇ8!ÙþS¹`˜ø	Rù	Pú	$û	Cü	P¯¿	ý	 ‡hecker	¿	‘Ô'nRüÏdGL¯“¯„Iþ	Gÿ	G€
+$
+C‚
+Mƒ
+I„
+G{…
+ ‹rammatical†
+ Šnflection¥<	…
+’ ¸¼_þ"’²·ÏãÇñÓ/‡
+Lˆ
+V‰
+UŠ
+Sµ‹
+ ƒubØÇ-}Ñ›û0Èð5¿ºèßÂî­¦L¬êt]=,N´Œ
+D
+LÖŽ
+ „ongŽ9VõéØèu¥>ÿHï‰Ù
+C
+$	›WRñ¾@Ëì?zxû1 ‘
+D´’
+ ˆuration~XfÊüŒè	ø?õBñ©“
+K”
+R•
+.–
+.o‹	—
+ ‡equire™Ë!>TËwà ã° ¿'E˜
+RÎ™
+ …angeÃv®ò³U¨%øÈtLš
+L›
+DÌœ
+ ‹eprecation
+ …evelo·L´‘ÑMòµ`íæ~¶ž
+SŸ
+CÖ€ 
+ …upertd+	QnF\ÎÁªóãi¡
+SÆèž£øWCÇXn£¿m]
+›•	™èhÎ¼'Uéo|,¤¢
+V£
+T¤
+$¥
+V¦
+C§
+T¨
+S˜©
+ ‰crolling¢Ö"	¢"±íTƒã“§03ø*fQkêª
+M«
+V¤"é`¨¤ô±%‘=psÖËÊþãî¬
+L­
+C®
+O¯
+$°
+S±
+C ²
+ Œancellation³
+ †ignal	+´
+ †ancel-ò*ŽöåÞ3ãJ@™RŸ¢µ
+DÖ¶
+ ‹iscouraged§[0žvf‹‡
+>R®¤b^·
+AËÎ	áãÔñ¹lšõÌŽÞÂy¸
+R¹
+FÖº
+ …loat™
+ä²ü2(ºàžÓ(QÌ…& ÷»
+R¼
+DÖ½
+ ˆrawableÀ®]ªJQ:iÃÜ1Hq¾
+M¿
+AÆÀ
+ ‰lignmentÈW…¯ro;/–â?´ç9e™_Á
+MÂ
+NÀ Ã
+ …ightÈI?S±j
+¾¿õ¡mªSóÄ
+SÅ
+$Æ
+CÇ
+IÈ
+S¼	É
+ ˆhortcutÏ<	Ê
+ ‡urfaceß—°0øó[
+ÂxˆdÒ†ÍË
+DÌ
+AÍ
+$Î
+DÏ
+AÐ
+DÑ
+.Ò
+.Ó
+.7UÔ
+ ‰drawable	ì Õ
+ …rrow½
+	Õ
+•Œë¸—À×¸P!¦­
+¼*™ýÖ
+L×
+AØ
+CÙ
+OÚ
+.Û
+.øÜ
+ contextaware	+°Ý
+ ‰vailable-ûNÑ+L‚‡N*¥¬µ¹Þ
+PÊ ¿îèÄ]ä?˜^ÿ¤PÆ·Mcß
+Dà
+Eá
+$â
+Fã
+Eä
+Eå
+$æ
+Vç
+Rè
+.é
+.ê
+.8ë
+ recyclerview 	ì
+ ˆecycler"	âýí
+ ‡actory	â•X×šYD¢KðÑ“ñ‡î
+Vï
+Lð
+$ñ
+Vò
+Bó
+Nô
+.õ
+.bö
+ ‹navigation	·ü"	ÆÇbnêºD‘†¿þ­k_'÷
+Pø
+Sù
+S´	”è¿À ¡ó´°ý},Îî”…«/ÓêËÛiôFÃÓ<†.ú
+Gû
+Bü
+$ý
+Dþ
+Bÿ
+.€
+.b
+ †badge	½ ½
+	½ j×8ké®bJ!ª‹nÕ¼V‚
+F·	Ž%SIc6õuxžA>Àyƒ
+T„
+Vž…
+ …alue‚³Þo2.1ÀõiAß@ê†
+V‡
+NxÇ1_N£3Z¡°ÚZ‰”	Òˆ
+D¥	ÿ5ÖÐYag”Œó$Öš®úBéi0XÍÉŠCš?——êî‰
+L…Ž
+tú:p‚üIAÈ“õKë NŠ
+G‹
+OÿŒ
+ ‚p
+ ‰eneratorÏ!¨?e”?ŽóŠÖá¶Ž
+T
+I
+$‘
+C’
+I“
+.”
+.•
+.}UÔ
+	i<	i‚$ÆX6ƒY'¢}ÛŒ
+´–
+P—
+VÍ ˜
+ ‰ersioned™
+ ‰arcelize{÷g]!Zê`šu8@š
+M›
+AÆœ
+ †nchorÈÓË§%aÂ¤1nk¢mô2
+Ež
+CŸ
+D 
+$¡
+L¢
+C£
+.¤
+.¥
+.8¦
+ ’coordinatorlayout 	§
+ ‹oordinatorB	¨
+ ˆispatch¶´æ>ØEÒ€A¹8IKª©
+Cª
+$«
+M¬
+A­
+.„	˜È	ˆõcïœKýî2)ÿÒcg,ó®
+P¯
+S°
+$±
+B²
+S³
+T{´
+ „ask‰‡	µ
+ Šarentable@¥w"-÷ÛõQñœ†¤F)¶
+L·
+V¸
+O–	+ñ- )¢›5¶
+-
+póåÀÔq¹
+Mº
+L»
+$¼
+C½
+L²¾
+ ‡inkify<	¾
+´
+í³«®Šò<¿äY˜€Ö¶¿
+LµÀ
+ ˆauncherÃûÆb—÷¥á.b±io¢°
+nÚ0Z•Ÿ	L_¼}†’Á
+SÂ
+FÃ
+$Ä
+CÅ
+PÆ
+RÇ
+FÈ
+.É
+.°Ê
+ „res	Ë
+ „ontÌ
+ ‰esourcesÍ
+ †arser<	Î
+ …etchŽ	5cÿýÆÐMö«ôß­|) „Ï
+DÐ
+EÑ
+$‚	Ò
+ …xtra—„IíPë?„·ý‡´Lòo¼Ó
+FÔ
+$Õ
+CÖ
+I×
+P{ã	K<	Ž 
+Sk5Ãœ‚Ñ˜[&ßgˆØ
+IÙ
+GÖj‰‹¤×OÂK•
+ùÕïþ5«
+‰S9+„ ÖÞd®€æÍ
+,ç¥Öt±–°ƒ'ÒvFä¤â×Ú
+Oˆ
+’ '›J¤î›=€WgüiÛ
+DÜ
+CÝ
+Lâ‹„	ÿ¿çd,[má¾A®'ô*·Þ
+Fß
+$à
+Pç¿	í
+ÍpU%çVÙ~†)˜´Zñá
+Fâ
+Rã
+Rä
+$å
+Cæ
+C¯°<	ç
+ ˆegisterè
+ ˆeceiverŽ[pÐÔØtœ½Ÿ87nîGòé
+Rê
+Oë
+OÅì
+ „penîí
+ ˆunnableÝT¢7gj˜½é™A@£%î
+Kï
+V“
+ð
+ ‡ersionñ
+ „indÞËÏoÒ4Üc K¹B¢$ò
+.ó
+.oô
+ ‡stdlibõ
+ …jdk8 ãVÆä«aóÕÿs\Hö
+.ó
+÷
+ …jdk7Ã|ST$?6gÞúµ±7ø
+O¤’ €&cmÃG¾‹x†žù
+Cú
+Rû
+Pü
+Rý
+Oý +üÿ ‘ˆeœ4BWêßâz¨ùOþ
+PÉ>°«
+Ú¯ÄOÜ59:ÿ
+R€TÖØÀÑ™ðc@[Žb
+Iý‚J(ùµ"f÷hÖrÄ"ý”‚FÞí
+îÏ9·uø6†›®_¶Wµs÷Q®xÚ’²?a>×ê{4åƒA„CÚ
+°… …wareïQšäZ]^½Ì|x{hŠ†Tmÿ¸@€T-LJpÝ
+Kì§‡HÉ Æ+ÈÎ‰·gò.YžÛ5£ÑˆT‰AŠI‹‹ ndeterminate£‚Žî_Á×ú×‘Ö<-}vpŒSSŽSÝÐÎèãÊI¬rZáí¾hU|­â4 HõØ^ï1BaÞ<Ý\eHL31n)ÊRCA‘$’A“Iå
+‚¿	” ‡hangesÝÍ¿}™o> !™?áŽQ•B–M—S‚‹
+†‡·Ü°F{oõ€SÚÂ¥Ôà˜C™$Þ
+	›©žÛ†Ko;ã´@Á¦ýšP›CœMWžMÅÈÎ¿aõ¯ÁLf¥pHéÈ–¦ÙŸM $¡VÖÇ	È+W­¿"Xo=A>]_½‹¼¢M£A´£Èà²äñÈŸJyX±š³Óî|ù¤B¥A¦GxA§ …lertÏozøwv*¦Ksgó^­¨C©$þ
+	ˆÂœë•RÏ£Ö%šC\ê£ªN«Pµ±¯ ¶,Ï2²€Øs!…¢¯*Æ—°¬C­M®.¯.°.±.ó² ‰intellij³ …langõ	´ …agicµ ˆonstantËÿzZ…H}°ï&ãÀ¿¶C·$“
+	Ö”Ÿrñü‡9ö‰—üº’±Ì¸SÜè'0uzÊ «±w²fD@©©¹LºP»Oó¼ ‰ffscreen½ …imitÍjùÆpŒ¹ö±í1I! >3¾M¿CÀTÁ$ÂLÃTÄCùÅ Šollapsing›B	Æ …itleÇ ˆollapseÈÞ,Ù§Æ…I¨tŽåFÓoÏÈFÉPÊMËVÌDÍH•ëû"é¿í
+’
+—ï¬†–˜rÆØ9[\sÎPÏHÐLÑUÅÒ „serÓ …eaveÔ „int¿eñÞHáŒwö>´„në	Ð‡DL¤ÛÐgB2æ™7F6ÕBÖMí†1ñ‰Ô½Ð¸T
+Xáþ©‚×OØ$ÙTâÚ ‹ransaction	Œ
++fUÃÖK
+<Œ
+¬ÑÈšÛVÜUÌÝ †nsafeÞ ˆarianceUô‰ÍÎgy!Däôæ/Wò“Öƒ¦ZÅ›˜*¥°fßEàS	á …wipeâ”D|²Ÿ¯Ê
+
+gN4SæàâC„ã Šollection˜› 6¿þ:‘ëÒ<FåäLå$É	
+ôˆ”ÉßQ2ETXE½ÏæRçFèRéFê$ëCìRíFî$ïCðCñFò.ó.}ô ‰provider	õ …ontsü<	Ë
+üˆ	Ë
+üö „ail÷ †eason„/ †«ÿõ·¥7©D,Ù³øLùMúA–û ˆbstractŽ«ðŠxcÓóKe|•£(ó
+ƒÛ<ÏÅ]mÎWËÉüMýIþ$ÿP€
+D
+M‚
+.ƒ
+.b„
+ ‹datepicker	h…
+ „ateÚ	ÑÈàöòƒóÉçñ W(ÚL¥
+Í‡Ð?ß4.zê
+íøü†
+T‡
+AÖˆ
+ ƒnyÙÅhRžãÐE©©…ÄÖ¿ò]»‰
+.Š
+.b‹àt/jûdWà-¸tîBy†“‹
+DŒ
+TÏØ•úûÊe
+2
+ÑÉé^^qøéî
+Dº•›0—Æ`<ú¿Ò
+_ÎˆŽ
+M
+D
+$‘
+C’
+$“
+C”
+A¤£<	ˆ	¨
+ÈÎÏÞÌj;kê×ÌåJJÊ€µ•
+I–
+F—
+Lÿ˜
+ ˆaunchedçÏ«E_g(¼SÞþ¼}4-õ6:™
+Aš
+E›
+Mœ
+T
+Vž
+$Ÿ
+C 
+T¡
+Vì¢
+ ˆelocity£
+ ‡racker<	¢
+¤
+ ‰rackable¥
+ †otion´ï}1 æ¤<;±Dç–É¦
+O§
+D´ó ¿íÕ-åîð£wÅ0~ò¨
+MÌ©
+ ˆetadataPÔM]x˜5bG/_:Ÿ3ª
+F–	£D¡îÏ0ô“Ç ]èWCæc†çU£Ú([´†p×0#ÄOX«
+R¬
+AÖ­
+ „nimÀ˜Ã_¨E'|M¬_Œ†˜®
+F¯
+M°
+S±
+$²
+C³
+MÈ
+¥<	É
+ÙŽ¾D—m;@œ‹ø s—´
+Oæ’ç#ýzpÌöþh?
+Çêµ
+SÖ™vV-bjÿùÅz¾•/¶
+I·
+LÛ‹¸
+ †mpactÇ6)rÅÁÞÜH‚
+ªXÅô¹
+Câãd?Fî<í W’êžçú3º
+F»
+$¼
+C½
+I¾
+CìµÏ<	ŽÃìhÿÖWï†øO¿ï.¿
+SÜ	ð)a$Æ¾!ëõÒm.À
+UÁ
+DÂ
+CÃ
+$Ä
+CÅ
+VÆ
+T™Ç
+ …yped…
+<	È
+ ‡omplexÉ
+ ‰imensionÂ¡ðµ–“f¥¤ïhâ÷Ä™Ê
+MË
+DïÌ
+ ‡ividerÈÛ|©¿ÜÕ„rû­¬M+I‚SÍ
+V¶Î
+ ˆolatilej'ÆÂ,UGo:$«·Ï
+DÐ
+BÑ
+MmÒ
+ „ustÓ
+ ‚eÔ
+ ŠocumentedV 1\³‘ð4m¦…ÒÕ
+OÖ
+L×
+Vâ"‹’vœ132‘–*¾8OU‰Ø
+WÙ
+OÚ
+$“	ŒÛ
+ ‡rapper„Š9°¡Á—äŽ?Å‹Üüñ²ÆéMG…¤a+iÜ
+PÝ
+HÞ
+$ß
+Pà
+Má
+C‚â
+ ‰ascading†Å	ã
+ …orizä
+ ˆositionõu×ÃéÒ• ©L2Ì &hÙmL¥j¥÷åÝà(¨PªhŒå
+Læ
+U˜ ç
+ †pdate-=qG”
+Ð2ý×E</bKCè
+Mé
+Sê
+Cë
+$ì
+Dí
+Sî
+M¤hï
+ …hape½
+	ýð
+ †hadowÈÇT…Í)w$¯X
+µKGÃ—ñ
+Pò
+LèBCºr{ÉÌŸ">°ûÌ\:ûó
+SÌô
+ ˆuppressá1&$F)pvÎ ?=Úõ
+GšjX\#œ]ê  Ù–û}ö
+P÷
+Cø
+Mù
+Pú
+Iû
+PÅÍ+ÍÈÎ¿ð©>Á2ä‰ëa”%2 îü
+T¶ý
+ †hrowsèñ3Üït‡$[ê·-tÈ(þ
+Nÿ
+Nð€ ƒot’	C˜‚‘&öIZŽþ [W|DD‚LƒM•–—ŠùhÐõ2†H÷Zž>ë„S»
+ð5˜lI‘+óTXhì½K…C3ˆ‡²Ôòã2EÎ
+˜Â"¹†I‡I‚ˆ „mpl±Ä²„lú!9³9ä¨‰MŠC‹DïûŒ ‹onstructorŸ	'¾·1ÐÛ±	°zO¿²LŽCIM‘Oí+†‚,-–ÄU¬ §åú"ßcÃÎ74´’L“A”V¤
+Ç­
+-ÆÐ¤ò„}÷§€š µöz •C–$—T˜F™VÖš ‡isible› ƒorœ ‡esting	›¹|µ¬LÎ%u•!ož«v\CžWúˆýD@M|5ßHð¯;ŸFâí
+ï‚…¿JìŸòz!ïmZ
+ F¡HÖ¢ „alfº
+,¯"J«\D(fÐœWpÖƒ£C¤L¥$”	ä„	:²&©ŠŸ˜àgs}ÂÞêi¦Oå
+ûœB7ÍÞžZ¢ûÏôg‡ôá§B¨N©SxÝÏý*§Ìt}1¢Ä5),Ï[¥ªT«C¬$­T®C¯¯ ˆalendar‚	¯»¼)ú´Ù‘(Ï*9³DÓj°M±A²MÇ†À
+Èb9Ïgc
+f·Ç%mTÝéý³Sâê¾å VÐùþXc«¯±
+8œmU{5á9 æùÆ´EµD¶F·R¸$²	¹ †eport¨©Â jÖâ; ñ»ã‘QÇô
+AºB»V¼$½C¾B¿Vè
+"À †ounds‚ 	"À¤ ¡¯ãGM\WŸ{@•}ÁFÂPÃNÍ ÕÐ ¹€Ø•:L)¬~åo7‹ãÎ—²ºç L¢
+üÒ0ËX’4Û$[ °source retention annotation 'value' has changedk § s °source retention annotation 'value' has changedƒ ø  °source retention annotation 'value' has changedš °source retention annotation 'value' has changed© °source retention annotation 'value' has changed¼ ë	¿
+ À °source retention annotation 'value' has changedÉ Ê	 Ï °source retention annotation 'value' has changedÔ â Ú ß ç °source retention annotation 'value' has changedð °source retention annotation 'value' has changedþ –€îé• ‰ °source retention annotation 'value' has changed– é œ °source retention annotation 'value' has changed¥ § ± µ ¸ °source retention annotation 'value' has changed½ Ù Á ¤¤	” Ã ô ì Ç ²ö
+ Ð °source retention annotation 'value' has changedá æ³ é Ã ì ¤	”ˆ
+¤ë	Ž ó °source retention annotation 'value' has changedþ † € °source retention annotation 'value' has changed‹ °source retention annotation 'value' has changed ¤ “ Ø
+â ˜ °source retention annotation 'value' has changed¤ 
+‚…› â¹
+ÞÛ
+Ñ 	 € †þ
+®îî ÄÆþ•Âœ¨Ãìé ¥ 2 § °source retention annotation 'value' has changed´ °source retention annotation 'value' has changed¹ ² À Á Â Æ Ê °source retention annotation 'value' has changedÍ °source retention annotation 'value' has changedÙ °source retention annotation 'value' has changedà °source retention annotation 'value' has changedé °source retention annotation 'value' has changedì é
+Æ ï † ñ ¤ ò ²´ë	â¿
+ ý € ‚ ² …  	 ‰ Šò  °source retention annotation 'value' has changed Šsš©çðþ‰–¸ÃÞó˜¤€§ÍÙàïý‚œ·©Ç×æ‚˜©¶ºÄò€†¤¯ÒÛíù… ®• § ² º Ë Ö Ù Ü á î ø †žœ¹»ÅÆÊðÓâìª	·	Ä	Ð	Ô	Ø	æ	å	î	þ	ø	‡
+î‘
+¡
+Á
+Ä
+Ë
+î
+‚
+†
+éŽ
+–
+š
+
+¹
+Ï
+Ó
+«
+á
+þ
+µˆŒâ•Ÿ¢¤¸¹¾ßæü¥
+‰
+‹
+
+Ž
+™
+¦
+®
+º
+¿
+À
+Ê
+õ
+„†¦§ª°Á Ÿ °source retention annotation 'value' has changed’ ” œ °source retention annotation 'value' has changed¢ °source retention annotation 'value' has changed© °source retention annotation 'value' has changed· °source retention annotation 'value' has changedÂ ² Ç °source retention annotation 'value' has changedÓ ª
+¤¹
+ × °source retention annotation 'value' has changedà °source retention annotation 'value' has changedä ˆ
+Ñ  æ  ²Õ
+¤Ó´
+ª
+â ë î ï ò‚æå§Ñ ¤	”ë	í²Žð•	ˆ
+¿
+çƒò ÷ Ã ø °source retention annotation 'value' has changedú ‚ € °source retention annotation 'value' has changed‚ ¤â¹
+ … Š
+¤ Š ²š ‘ µ ” â¹
+› ˜ °source retention annotation 'value' has changed› ‚â2 Š  ²‚òŽœâÕ
+ Ä Ã œ ‚‡âØ
+ä	ˆ
+é²ë	”ò“¤ðÚ
+É   ¥2 ¢ ¹
+ © Ä ­ °source retention annotation 'value' has changed± â ³ ï ¶ °source retention annotation 'value' has changed¸ •	 º °source retention annotation 'value' has changedÄ °source retention annotation 'value' has changedÑ êâ› Ö °source retention annotation 'value' has changedÚ ÜÞ å ç é ” í ¶
+•	 ò °source retention annotation 'value' has changedü ¤… € î „ é † °source retention annotation 'value' has changed 
+â – ¢	ÉÊ	ìö	þ“
+à”€î
+ªø¨
+ø š ò ž µñ
+   ¤ ¤ ²ø
+ « †î Æ ¯ °source retention annotation 'value' has changed§ ²Õ
+âÞ
+ªÈ ¿ ª Ä °source retention annotation 'value' has changedÎ ” Ð ¤	¤ Ò °source retention annotation 'value' has changedÛ °source retention annotation 'value' has changedã é ê â í °source retention annotation 'value' has changedó ²Õ
+¤×…ÙòðçŠ‡É âéå ô Ò 2¤¥Ù³ ÷  üµè âÁÙé ø /¼ÚÃ“¤¥ïÓ‚…”›Ä¢ü2— ßÜ ðÑÓÆæç	Ò Ñ	îª
+é®
+°
+Û
+µâÞ¹
+Õ
+Ù…†£³±
+ ù °source retention annotation 'value' has changed…  °source retention annotation 'value' has changedŠ  °source retention annotation 'value' has changed® þ
+îî ÄÆ “  é •  °source retention annotation 'value' has changed—  – š  °source retention annotation 'value' has changed¥  ¤	ˆ
+ §  °source retention annotation 'value' has changedß þ£Ú” ®  ¤	¨
+Ñ  °  îëð ²  °source retention annotation 'value' has changedµ  °source retention annotation 'value' has changed·  ¤	ˆ
+ º  °source retention annotation 'value' has changed¾  ¥ Ã  ²â2› Å  ² É  ²é Ë  °source retention annotation 'value' has changedÑ  ¤ Ó   Ö  °source retention annotation 'value' has changedÙ  °source retention annotation 'value' has changedÛ  —  Ü  Õ á  °source retention annotation 'value' has changedƒ °source retention annotation 'value' has changedè  ¥2Ñ	 î  Æ ñ  °source retention annotation 'value' has changedô  Æ ø  ›  Õ † °source retention annotation 'value' has changed‘ “
+ “ ¤ ˜  ²š¹Å ö
+ˆ
+Â œ Ä ž °source retention annotation 'value' has changed§ D‘	ÿ
+¢	„–É©	ÔœÊ	Ò	ª½ô÷¶øéŠ ìÛß“ Œ
+‹® “
+˜
+´†
+ž
+ÊÃ é¨
+µ
+·
+¸
+…«
+»
+µ
+Ÿñ Í
+àäó
+ü
+‰
+ø€¸ÃÍÏä ­ê¸Ø
+øÖ—é ¨ ¼ ª ˜Þ
+ ® °source retention annotation 'value' has changed² › ´ ²â ¸ °source retention annotation 'value' has changed¹ °source retention annotation 'value' has changed» °source retention annotation 'value' has changedÃ ²ë	ç”òŽ›Š¤	 âß“¿
+“£ˆ
+é Å °source retention annotation 'value' has changedÆ °source retention annotation 'value' has changedÊ °source retention annotation 'value' has changedÍ °source retention annotation 'value' has changedŽ ²Õ
+ä	â ð î¥
+ Ï ò
+˜ðçÞ
+å Ñ æ¤â Ó Ü  Ú Ñ Æ  îÕô ìéé
+Â â °source retention annotation 'value' has changedä ²¥2›â æ ³¤Þ ç Ü  ê °source retention annotation 'value' has changedì °source retention annotation 'value' has changedð ò ó °source retention annotation 'value' has changed÷ “Ø
+ ø °source retention annotation 'value' has changedþ ß 	 ¤Û
+ …	 °source retention annotation 'value' has changed	 ·  ‘	 EÚþÃ€€ïú‚…›Ä¢ ßƒ¨ðþÒ Þ
+Š
+Û
+ù
+‡¨×•
+¹
+Õ
+Üå
+Ÿ£¼á“¤¥Âñ”Ú2ž— É Û Ü ÑÆæ	îª
+é‚âÞ•¥
+çÙñ
+†³±
+ Ò  ‚¤â “	 •	 œ	 ±  	 òÓ ‚Ÿ²Ï
+ ¢	 °source retention annotation 'value' has changed¤	 ˆ
+ ©	 °source retention annotation 'value' has changedª	 °source retention annotation 'value' has changed²	 Ž ·	 °source retention annotation 'value' has changedÁ	 °source retention annotation 'value' has changedÁ µ¥
+À¢
+ Ä	 °source retention annotation 'value' has changedÊ	 ” Ï	 ²´ë	â Ð	 °source retention annotation 'value' has changedÑ	 2 Ò	 2ÙÃéî¥ Ô	 °source retention annotation 'value' has changedØ	 °source retention annotation 'value' has changedä	 ²Õ
+
+²	â å	 °source retention annotation 'value' has changedæ	 °source retention annotation 'value' has changedê	 ² ì	 ¿ÎÐ î	 °source retention annotation 'value' has changedö	 ¶ ø	 °source retention annotation 'value' has changedþ	 °source retention annotation 'value' has changed‡
+ ïÆ î éÆ Œ
+ °source retention annotation 'value' has changed
+  ‘
+ °source retention annotation 'value' has changed“
+ °source retention annotation 'value' has changed˜
+ ‘
+¹ š
+ “
+ 	 ž
+ ²‚2›âÕ
+Ü¥ ¡
+ °source retention annotation 'value' has changed•	 ¤ ¢
+ ¥
+ ª
+ ³ ¬
+ °
+ µ
+ °source retention annotation 'value' has changed·
+ Ç¥Š· Ñ ²ˆ
+ ¸
+ ·  »
+ Ü µÁé ¾
+ °source retention annotation 'value' has changedÁ
+ °source retention annotation 'value' has changedÄ
+ °source retention annotation 'value' has changedË
+ °source retention annotation 'value' has changedÖ
+ ²ƒ Þ
+ ²‡É é ß
+ °source retention annotation 'value' has changedî
+ °source retention annotation 'value' has changed÷
+ Ž ” ˆ
+ ú
+ °source retention annotation 'value' has changed‚
+ °source retention annotation 'value' has changedƒ
+ Ÿ †
+ °source retention annotation 'value' has changedˆ
+ ²Ú
+ é ¥2 ‰
+ °source retention annotation 'value' has changedŠ
+ ¤… Ž
+ °source retention annotation 'value' has changed–
+ °source retention annotation 'value' has changedš
+ °source retention annotation 'value' has changed
+ °source retention annotation 'value' has changed©
+ µ…¥2 ®
+ 2 ¶
+ •	 ¹
+ °source retention annotation 'value' has changed¿
+ ²´ë	â °
+ Ü Á
+ °source retention annotation 'value' has changedÏ
+ ‚ Ó
+ °source retention annotation 'value' has changedØ
+ ð «
+ …¥2µ©
+ ç òÕ
+å Ú
+ ² Û
+ æ¤ Þ
+ ˜²Õ
+âÈ á
+ °source retention annotation 'value' has changedé
+ Æ î
+ “
+ ò
+ °module-info of 'kotlin.stdlib.jdk8' has changedö
+ °module-info of 'kotlin.stdlib.jdk7' has changedø
+ ² ù
+ › þ
+ î Ä€ ÿ
+ °source retention annotation 'value' has changed † ‚ ¤Þ µ ¥2 ƒ ² † F‘	ÿ
+ 	¢	„–É©	ÔœÊ	Ò	ª½ô÷¶øéìÛß“ Œ
+‹® “
+˜
+´†
+ž
+ÊÃ é¨
+µ
+·
+¸
+…«
+»
+µ
+Ÿñ Í
+Ï
+‘àäó
+§ü
+‰
+ø€¸ÃÍÏä ­ê¸Ø
+øÖé ‡ é ˆ °source retention annotation 'value' has changedŒ °source retention annotation 'value' has changedâ íÒ  ¹
+Õ
+ÓÜÙá‚×…›æ¤Ÿ³ª
+Û
+Ñ 	 Þ ‚  °source retention annotation 'value' has changed• †þ
+î ô Æ ˜ Þ
+ š ² Ÿ °source retention annotation 'value' has changed¢ °source retention annotation 'value' has changed¤ °source retention annotation 'value' has changed¨ –þ
+ÂîÃî é÷ ª °source retention annotation 'value' has changed¬ °source retention annotation 'value' has changed¶ °source retention annotation 'value' has changed¸ °source retention annotation 'value' has changed¹ °source retention annotation 'value' has changed¾ °source retention annotation 'value' has changedÈ ²Õ
+â Î ² ë	 ²´âê	 Õ Æ × Ù Û °source retention annotation 'value' has changedò âð› ß °source retention annotation 'value' has changedâ ƒ ä É æ °source retention annotation 'value' has changedø ” ó
+ «module-info of 'kotlin.stdlib' has changedü °source retention annotation 'value' has changed¥
+ –’¢
+ †
+ ¥ ‹
+ °source retention annotation 'value' has changed
+ °source retention annotation 'value' has changedŽ
+ °source retention annotation 'value' has changed•
+ ¤ ™
+ °source retention annotation 'value' has changed¦
+ °source retention annotation 'value' has changed¨
+ —ÉÇéì‹´Êéàäæ±¸å–š§¿ÎÐøŠ · Å ‘˜ÃÍ÷ 	¤	Ï	Ò	Œ
+˜
+š
+ž
+»
+ƒ
+Þ
+ø
+˜ª¶ë	ö
+—½¹’øÖí“ ® ´Žø‘	œ	©	ê	ì	¸
+Ö
+ˆ
+‰
+Ï
+Ú
+î
+ÿ
+«
+µ
+ü
+ kƒÔœ¥þò‚­„¤¥ Ã Ñ ñ §ª	¢	Ê	ä	
+“
+·
+÷
+”¶
+†ÈÎßâä†
+´
+ó
+Á…‰ŸÂ€ŠŠœéô÷óÓ ²¸Ïäêð“	²	•	µ
+¿
+Ø
+çƒšÛòøª
+Í
+Ï
+•´ ª
+ •	 ç æª
+Þ
+ª «
+ êâÙ ®
+ °source retention annotation 'value' has changed´
+ ²Õ
+”â µ
+  ¶
+ ÜÞ ¹
+ › º
+ °source retention annotation 'value' has changed¿
+ °source retention annotation 'value' has changedÀ
+ °source retention annotation 'value' has changedÊ
+ °source retention annotation 'value' has changedÍ
+ °source retention annotation 'value' has changedÏ
+ *·
+¸
+…‘	ÿ
+«
+»
+ 	„–†µ
+©	ÔÍ
+Ê	äÒ	ª½ô÷ø‰
+ø€éÃÛ“ Ï® ä ˜
+ê†
+ž
+¸Ø
+Ö Õ
+ â Ø
+ “ Ü Þ Ü
+ °source retention annotation 'value' has changedÙ ¤…À å
+ —  è
+ °source retention annotation 'value' has changedñ
+ é ó
+ °source retention annotation 'value' has changedõ
+ °source retention annotation 'value' has changedö
+ ² ü
+ °source retention annotation 'value' has changedþ
+ 3Çæå§· Å ¤	Þ
+ø
+˜ë	ö
+—¹í´Žê	Ö
+ˆ
+Ú
+ò‚¤Ñ ªä	
+÷
+”¶
+ÈÎ´
+ÁÂŠŠœó²ð²	•	¿
+çƒšò´  â „ °source retention annotation 'value' has changed… ¥2 † 
+þ
+€îî Ä«Æ•€œ ‰ 
+í	“	ò
+Ñ ’ˆ
+ðå  î ’ ¥
+ • —  °source retention annotation 'value' has changedŸ áæ¤Ù   °source retention annotation 'value' has changed£ ” ¦ °source retention annotation 'value' has changed§ °source retention annotation 'value' has changedª °source retention annotation 'value' has changed° °source retention annotation 'value' has changed³ æ¤ ±
+ 2 ´ ² º °source retention annotation 'value' has changedÁ °source retention annotation 'value' has changed— ˆ
+éò¥· ð  €   Ä.ÅPÆLÇ/È/É/ 	Ê …java   Ë.ÌAÍMÇ
+
+Ê   
+    R  '  
