@@ -51,10 +51,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 isFlagged = !isFlagged;
-                if(flagButton.getText() == "Build") flagButton.setText("Flag");
-                else {
-                    flagButton.setText("Build");
-                }
+               if(isFlagged == true) flagButton.setBackgroundResource(R.drawable.ic_build);
+               else flagButton.setBackgroundResource(R.drawable.ic_flag);
             }
         });
     }
